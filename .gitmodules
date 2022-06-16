@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "colormap"]
+	path = colormap
+	url = https://github.com/bhaskarvk/colormap
+	shallow = true
+	registered = true
+[submodule "leaflet.esri"]
+	path = leaflet.esri
+	url = https://github.com/bhaskarvk/leaflet.esri
+	shallow = true
+	registered = true
+[submodule "leaflet.extras"]
+	path = leaflet.extras
+	url = https://github.com/bhaskarvk/leaflet.extras
+	shallow = true
+	registered = true
+[submodule "tilegramsR"]
+	path = tilegramsR
+	url = https://github.com/bhaskarvk/tilegramsr
+	shallow = true
+	registered = true
+[submodule "widgetframe"]
+	path = widgetframe
+	url = https://github.com/bhaskarvk/widgetframe
+	shallow = true
+	registered = true
