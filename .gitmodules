@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "colormap"]
-	path = colormap
-	url = https://github.com/bhaskarvk/colormap
-	shallow = true
-	registered = true
 [submodule "leaflet.extras"]
 	path = leaflet.extras
 	url = https://github.com/bhaskarvk/leaflet.extras
+	shallow = true
+	registered = true
+[submodule "colormap"]
+	path = colormap
+	url = https://github.com/bhaskarvk/colormap
 	shallow = true
 	registered = true
 [submodule "tilegramsR"]
