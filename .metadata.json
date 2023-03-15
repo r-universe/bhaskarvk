@@ -1,10 +1,10 @@
 [
   {
-    "package": "leaflet.extras",
+    "package": "colormap",
     "oncran": true
   },
   {
-    "package": "colormap",
+    "package": "leaflet.extras",
     "oncran": true
   },
   {
