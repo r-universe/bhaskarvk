@@ -8,6 +8,3 @@
 [submodule "tilegramsR"]
 	path = tilegramsR
 	url = https://github.com/bhaskarvk/tilegramsr
-[submodule "widgetframe"]
-	path = widgetframe
-	url = https://github.com/bhaskarvk/widgetframe
